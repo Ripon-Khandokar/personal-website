@@ -1,0 +1,100 @@
+@media all and (max-width: 1200px) {
+    .half-area {
+        width: 43%;
+    }
+    img {
+        width: 80%;
+        margin: auto;
+    }
+    .claient p {
+        font-size: 20px;
+        width: 80%;
+        margin: auto;
+        margin-bottom: 5%;
+    }
+    .box {
+        border-radius: 5px;
+        width: 80%;
+        margin: auto;
+    }
+    .claient {
+        display: inline-block;
+        margin-left: 15%;
+    }
+}
+@media all and (max-width: 841px) {
+    h2 {
+        font-size: 30px;
+    }
+}
+@media all and (max-width: 840px) {
+    h2 {
+        font-size: 40px;
+    }
+    p {
+        font-size: 10px;
+        margin-bottom: 10%;
+    }
+}
+@media all and (max-width: 520px) {
+    .work-photo img {
+        width: 94%;
+        margin-bottom: 3%;
+    }
+    .pik {
+        margin: auto;
+    }
+    .claient {
+        display: inline-block;
+    }
+    .box {
+        width: 80%;
+        display: block;
+        margin: auto;
+    }
+    .center {
+        margin: 5%;
+    }
+    .claient p {
+        font-size: 10px;
+        width: 90%;
+        margin: auto;
+            margin-bottom: auto;
+        margin-bottom: 5%;
+    }
+}
+@media all and (max-width: 420px) {
+    h2 {
+        font-size: 20px;
+    }
+    .highlight {
+        font-size: 20px;
+    }
+    .button {
+        padding: 6px 5px;
+        border-radius: 3px;
+        font-size: 15px;
+    }
+    .center-f p {
+        font-size: 10px;
+    }
+    section {
+        height: 350px;
+    }
+    .work-photo img {
+        margin-bottom: 20%;
+    }
+}
+@media all and (max-width: 269px) {
+    h2 {
+        font-size: 20px;
+    }
+    section{
+        height: 85vh;
+    }
+    .button {
+        padding: 5px 5px;
+        font-size: 10px;
+    }
+    
+}
